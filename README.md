@@ -5,6 +5,8 @@ Each recipe demonstrates a reusable integration pattern with a small, focused ex
 
 ## Recipes
 
+- [ClickHouse + Metabase](clickhouse-metabase/): a local analytics and visualization stack.
+
 - [PostgreSQL to ClickHouse](postgres-to-clickhouse/)
   - [MaterializedPostgreSQL](postgres-to-clickhouse/materialized-postgresql/): executable
     native replication example, append-only change history and deletion-aware current state.
